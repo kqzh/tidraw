@@ -35,5 +35,5 @@ go build
 ```
 
 ## 样例展示
-
+![example](https://github.com/kqzh/tidraw/blob/master/examples/example.jpg)
 
